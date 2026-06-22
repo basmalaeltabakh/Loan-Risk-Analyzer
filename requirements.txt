@@ -1,0 +1,17 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+xgboost
+shap
+optuna
+imbalanced-learn
+fastapi
+uvicorn
+pydantic
+streamlit
+plotly
+anthropic
+python-dotenv
+google-generativeai

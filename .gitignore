@@ -1,0 +1,20 @@
+data/*.csv
+data/*.zip
+
+# Model binary 
+# model/*.pkl
+
+# Python
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+
+
+# VS Code
+.vscode/
+
+# API keys
+.env
+secrets.toml
