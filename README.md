@@ -4,6 +4,11 @@
 
 Unlike traditional credit scoring models, this solution combines machine learning, explainable AI, and large language models to help financial institutions understand not only the risk level but also the key factors driving the decision.
 
+ر
+
+https://github.com/user-attachments/assets/3b3f7a7d-f30c-4f1f-b9ff-33b1e4c34418
+
+
 ---
 
 ##  Key Features
